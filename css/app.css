@@ -1,0 +1,30 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+#header-container{
+	background-color: #F44336;
+	padding: 1.2em 1em 1em 0.9em;
+	text-transform: uppercase;
+	color: white;
+}
+#form-container{
+	padding: 2em 0;
+}
+
+#header-container{
+	color: white;
+}
+
+#footer-container{
+	background-color: #1c3643;
+	color: white;
+	padding: 1em 0;
+}
+
+#footer-container h4{
+	font-size: 16px;
+}
+
+#footer-container .nav-link{
+	color: white;
+}
